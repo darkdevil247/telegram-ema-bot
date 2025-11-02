@@ -21,5 +21,5 @@ A Telegram bot that calculates and provides Exponential Moving Average (EMA) ind
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/telegram-ema-bot.git
+git clone https://github.com/darkdevil247/telegram-ema-bot.git
 cd telegram-ema-bot
