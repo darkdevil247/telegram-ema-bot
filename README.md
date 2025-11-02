@@ -1,4 +1,4 @@
-# Telegram EMA Bot
+#  Telegram EMA Bot
 
 A Telegram bot that calculates and provides Exponential Moving Average (EMA) indicators for financial markets.
 
